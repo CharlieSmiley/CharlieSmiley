@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on fun coding projects
 - 📫 How to reach me email.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: 
 
 <!---
 CharlieSmiley/CharlieSmiley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
